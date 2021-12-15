@@ -10,7 +10,7 @@
 
 .first-div {
     flex-grow: 2;
-    margin-top: 0.2em;
+    margin-top: 0.3em;
     font-family: 'Prosto One', cursive;
     font-weight: bold;
     font-size: calc(1em + 1vw + 1vh);
